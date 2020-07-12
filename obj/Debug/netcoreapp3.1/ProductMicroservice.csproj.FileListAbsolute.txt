@@ -1,0 +1,6 @@
+C:\Users\Funmike Olaore\Source\Repos\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.csprojAssemblyReference.cache
+C:\Users\Funmike Olaore\Source\Repos\ProductMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Funmike Olaore\Source\Repos\ProductMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservice.StaticWebAssets.xml
+C:\Users\Funmike Olaore\Source\Repos\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Funmike Olaore\Source\Repos\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfoInputs.cache
+C:\Users\Funmike Olaore\Source\Repos\ProductMicroservice\obj\Debug\netcoreapp3.1\ProductMicroservice.AssemblyInfo.cs
